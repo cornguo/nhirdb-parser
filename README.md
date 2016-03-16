@@ -1,4 +1,4 @@
-### NHIRDB parse scripts
+# NHIRDB parse scripts
 
 This is a set of PHP scripts which can parse DAT files
 obtained from NHIRDB (http://nhird.nhri.org.tw/).
